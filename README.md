@@ -1,4 +1,4 @@
-## Clínica VitalCare
+# Clínica VitalCare
 Entrega del mòdulo 7, enfocado en la creación de un sistema web utilizando Django, con el objetivo de aplicar y demostrar conceptos fundamentales de desarrollo backend y estructura de aplicaciones web.
 
 
@@ -87,12 +87,12 @@ Este proyecto fue desarrollado en el contexto de un curso SENCE, con el propósi
 - Adquirir experiencia en desarrollo backend
 
 
-# Estado del proyecto
+## Estado del proyecto
 Proyecto funcional en entorno local
 Alcance académico / demostrativo
 No desplegado en producción
 
 
-# Autora
+## Autora
 Daniela Rojas Poblete
 Proyecto SENCE
